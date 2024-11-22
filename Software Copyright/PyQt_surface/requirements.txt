@@ -1,0 +1,7 @@
+PySide2
+matplotlib
+joblib
+pandas
+transformers
+torch
+scikit-learn
