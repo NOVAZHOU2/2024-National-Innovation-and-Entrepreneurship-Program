@@ -1,0 +1,21 @@
+"x"
+"Bang.LOC" 1
+"AP.LOC" 2
+"Dbscan.AMC" 2
+"Optics.AMC" 2
+"Hdbscan.DIT" 3
+"Ttsas.NPM" 4
+"Rock.CAM" 4
+"Gmeans.CAM" 5
+"Bsas.CAM" 6
+"Mbsas.CAM" 6
+"Syncsom.LCOM" 6
+"Birch.CBO" 7
+"Agglomerative.CBO" 7
+"MiniBatchKmeans.CBO" 7
+"Fcm.DIT" 8
+"Xmeans.CBO" 8
+"Kmeans.DIT" 9
+"Somsc.Avg_CC" 10
+"MeanShift.Ce" 11
+"EMA.NPM" 12
